@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TRIGGER_MC_S4.aternos.me",
-    "port":21847,
+    "ip": "SURVIVALBROSMP.aternos.me",
+    "port":54811,
     "version": "1.21.1"
   },
   "position": {
